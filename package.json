@@ -1,6 +1,6 @@
 {
   "name": "sf_node_array",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "sorting an array using the bubble method",
   "main": "index.js",
   "scripts": {
