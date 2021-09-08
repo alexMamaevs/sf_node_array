@@ -1,0 +1,24 @@
+{
+  "name": "sf_node_array",
+  "version": "0.0.1",
+  "description": "sorting an array using the bubble method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexMamaevs/sf_node_array.git"
+  },
+  "keywords": [
+    "array",
+    "bubble",
+    "sorting"
+  ],
+  "author": "Aleksey Mamaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexMamaevs/sf_node_array/issues"
+  },
+  "homepage": "https://github.com/alexMamaevs/sf_node_array#readme"
+}
