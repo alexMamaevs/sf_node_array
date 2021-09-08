@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alexMamaevs/sf_node_array/issues"
   },
-  "homepage": "https://github.com/alexMamaevs/sf_node_array#readme"
+  "homepage": "https://github.com/alexMamaevs/sf_node_array#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }
