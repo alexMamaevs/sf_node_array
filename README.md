@@ -1,3 +1,2 @@
 # sf_node_array
-#install 
-npm install
+#npm i sf_node_array

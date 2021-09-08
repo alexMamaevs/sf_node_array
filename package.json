@@ -1,6 +1,6 @@
 {
   "name": "sf_node_array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sorting an array using the bubble method",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,5 @@
   },
   "homepage": "https://github.com/alexMamaevs/sf_node_array#readme",
   "dependencies": {
-    "user": "0.0.0"
   }
 }
